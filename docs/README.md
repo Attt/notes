@@ -1,2 +1,2 @@
 # Attt Notes
-- [LeetCode笔记📒](/_notes/leetcode/)
+[目录](./_sidebar.md ':include')
