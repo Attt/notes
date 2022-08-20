@@ -1,6 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [首页](/)
-
+- [LeetCode笔记📒](/_notes/leetcode/)
 - **目录**
     - [19. 删除链表的倒数第 N 个结点](_notes/leetcode/1/19.md)
     - [21. 合并两个有序链表](_notes/leetcode/1/21.md)

@@ -1,6 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [首页](/)
-
+- [LeetCode笔记📒](/_notes/leetcode/)
 - **目录**
     - [5. 最长回文子串](_notes/leetcode/2/5.md)
     - [26. 删除有序数组中的重复项](_notes/leetcode/2/26.md)
