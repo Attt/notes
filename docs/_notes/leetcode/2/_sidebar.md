@@ -26,6 +26,7 @@
     - [59. 螺旋矩阵 II](_notes/leetcode/2/59.md)
     - [438. 找到字符串中所有字母异位词](_notes/leetcode/2/438.md)
     - [3. 无重复字符的最长子串](_notes/leetcode/2/3.md)
+    - [654. 最大二叉树](_notes/leetcode/2/654.md)
     - **TODOs**
     - [剑指 Offer 29. 顺时针打印矩阵](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%2029.md)
     - [567. 字符串的排列](_notes/leetcode/2/567.md)
