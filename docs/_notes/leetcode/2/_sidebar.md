@@ -27,14 +27,14 @@
     - [3. 无重复字符的最长子串](_notes/leetcode/2/3.md)
     - [654. 最大二叉树](_notes/leetcode/2/654.md)
     - [1455. 检查单词是否为句中其他单词的前缀](_notes/leetcode/2/1455.md)
-    - **TODOs**
-    - [剑指 Offer 29. 顺时针打印矩阵](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%2029.md)
     - [567. 字符串的排列](_notes/leetcode/2/567.md)
     - [76. 最小覆盖子串](_notes/leetcode/2/76.md)
+    - [187. 重复的DNA序列](_notes/leetcode/2/187.md)
+    - [28. 实现 strStr()](_notes/leetcode/2/28.md)
+    - [剑指 Offer 29. 顺时针打印矩阵](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%2029.md)
+    - **TODOs**
     - [剑指 Offer 48. 最长不含重复字符的子字符串](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%2048.md)
     - [剑指 Offer II 014. 字符串中的变位词](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%20II%20014.md)
     - [剑指 Offer II 015. 字符串中的所有变位词](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%20II%20015.md)
     - [剑指 Offer II 016. 不含重复字符的最长子字符串](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%20II%20016.md)
     - [剑指 Offer II 017. 含有所有字符的最短字符串](_notes/leetcode/2/%E5%89%91%E6%8C%87%20Offer%20II%20017.md)
-    - [187. 重复的DNA序列](_notes/leetcode/2/187.md)
-    - [28. 实现 strStr()](_notes/leetcode/2/28.md)
