@@ -10,3 +10,6 @@
     - [480. 滑动窗口中位数](_notes/leetcode/3/480.md)
     - [658. 找到 K 个最接近的元素](_notes/leetcode/3/658.md)
     - [662. 二叉树最大宽度](_notes/leetcode/3/662.md)
+    - [793. 阶乘函数后 K 个零](_notes/leetcode/3/793.md)
+    - [528. 按权重随机选择](_notes/leetcode/3/528.md)
+    - [1011. 在 D 天内送达包裹的能力](_notes/leetcode/3/1101.md)
